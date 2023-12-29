@@ -59,22 +59,22 @@ buku yang dipinjam) yang telah meminjam buku lebih dari 10 kali
 
 Jawaban:
 
-### a
+### a :
 ![a](assets/a.png)
 
-### b
+### b :
 ![b_1](assets/b_1.png) ![b_2](assets/b_2.png)
 
-### c
+### c :
 ![c](assets/c.png)
 
-### d
+### d :
 ![d](assets/d.png)
 
-### e
+### e :
 ![e](assets/e.png)
 
-### f
+### f :
 ![f](assets/f.png)
 
 ---
